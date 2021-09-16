@@ -5,7 +5,7 @@
     - Cross country skiing
     - Sailing
     - Canoeing
-    - Cars
+    - Climbing
 - I’m looking to collaborate on anything related to any of the above!
 - How to reach me:
     twitter: @angular_fish
