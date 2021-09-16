@@ -8,8 +8,8 @@
     - Climbing
 - I’m looking to collaborate on anything related to any of the above!
 - How to reach me:
-    twitter: @angular_fish
-    the email listed on my profile
+    - twitter: @angular_fish
+    - the email listed on my profile
 
 <!---
 jimbirch/jimbirch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
