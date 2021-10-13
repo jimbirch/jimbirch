@@ -1,4 +1,4 @@
-- Hi, I’m Jim Burchfield, less-than-famous fish biologist.
+- Hi, I’m Jim Burchfield.
 - I’m an aquatic ecologist specializing in habitat use by threatened and endagered aquatic species.
 - My interest other than fish include:
     - Agent based statistical modelling
